@@ -16,3 +16,4 @@ Some open-source projects i am learning recently.(>_<)
  - [ ] https://github.com/mikel-brostrom/yolo_tracking
  - [ ] https://github.com/google-deepmind/tapnet
  - [ ] https://dino-tracker.github.io/
+ - [ ] https://paperswithcode.com/dataset/lasot
